@@ -14,7 +14,7 @@
 		<div class="container">
 			<form class="form-album">
 				<h2 class="form-album-heading">Album:</h2>
-				<input type="text" id="album" class="form-control" placeholder="">
+				<input type="text" id="album" class="form-control" placeholder="" readonly>
 				 <div class="form-group">
 					<label for="album_type">Select type of album:</label>
 					<select class="form-control" id="album_type">
